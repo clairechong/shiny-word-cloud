@@ -13,12 +13,7 @@ handles <<- list("New York Times" = "nytimes",
                "Washington Post" = "washingtonpost")
 
 #setup_twitter_oauth("API key", "API secret", "Access token", "Access secret")
-setup_twitter_oauth("4MMe0bN1XpGHHDgbAhWzfMzzc", "PlNCsP5dV2gOHZFBYTDfYtV4bYIQgPTJCubPVRpgrRdEXiLoXP", 
-                    "1028388529032843265-xWyq9dbYtXim9eCHvH8A6y5TM8SHem", "X1Xb9QCHIDyHaYH1SDVMs5XjRqqXveHmVWlPYwqIwptA1")
-
-
-
-
+#enter the info here
 
 
 # Using "memoise" to automatically cache the results
